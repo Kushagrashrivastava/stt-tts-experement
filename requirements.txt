@@ -1,0 +1,7 @@
+torch
+torchaudio
+coqui-tts
+gradio
+sounddevice
+noisereduce
+openai-whisper
