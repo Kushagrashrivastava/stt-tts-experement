@@ -5,3 +5,5 @@ gradio
 sounddevice
 noisereduce
 openai-whisper
+openai
+python-dotenv
